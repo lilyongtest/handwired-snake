@@ -1,33 +1,34 @@
 ## Keyboard Name
-- butterfly
+- snake
 
 ## Images
-![1772633373-6iY2RfpuBTC04MteyWFrGSKV](https://github.com/user-attachments/assets/bc156b28-da2c-4c86-9ea1-28a154250616)
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f847145d-cd46-44af-8543-ef7b6244c403" />
 
 
 ## Status
 - Prototype
 
 ## Features
-- Unique layout
-- Integrated keyboard design
-- Leather trackpad
-- Interchangeable outer covers
+- Modular keyboard system with a single central controller
+- Multiple modules connected via LAN (RJ45) cables
+- Supports attachable input modules such as foot pedals and small macro pads
+- Expandable architecture allowing additional modules to be added
 
 ## Specifications
 
 | Item | Description |
 |-----|-----|
-| Layout | Column-staggered |
-| Keys | 46 keys |
+| Layout | freestyle |
+| Keys | freestyle |
 | Controller | RP2040-Zero |
 | Firmware | QMK |
 | Connection | USB-C |
-| Case | cardboard / lether  |
+| Case | cardboard  |
 
 
 ## Layout
-<img width="838" height="277" alt="keyboard-layout" src="https://github.com/user-attachments/assets/bac0d49f-a488-4f6d-8a8e-86f96c64609a" />
+freestyle
 
 
 ## Firmware
@@ -38,5 +39,11 @@ firmware/
 ```
 ## Build Notes
 
-Keyboard photos.
+more Keyboard photos.
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/06a59005-b091-4428-916b-ad7bb461c05f" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/230dfff4-9b4c-4423-9cc4-a81f3315fea3" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/9aed0db9-31ab-4df1-8165-ace79d932d71" />
+
+
+
 
