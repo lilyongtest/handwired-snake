@@ -28,7 +28,7 @@
 
 
 ## Layout
-freestyle
+<img width="466" height="155" alt="keyboard-layout (2)" src="https://github.com/user-attachments/assets/df352f11-78d0-4692-aec0-8b3320e63a60" />
 
 
 ## Firmware
